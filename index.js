@@ -17,11 +17,11 @@ function divide(a, b) {
 //inc(n) increments n and returns the result
 
 function inc(n) {
-  return n++
+  return n+=
 }
 
 function dec(n) {
-  return n--
+  return n-=
 }
 
 function makeInt(n, x) {
