@@ -5,3 +5,11 @@ function add(a, b) {
 function subtract(a, b) {
   return b - a
 }
+
+function multiply(a, b) {
+  return b - a
+}
+
+function divide(a, b) {
+  return b - a
+}
